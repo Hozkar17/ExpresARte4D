@@ -1,0 +1,32 @@
+{
+  "background_color": "#4260b5",
+  "description": "Tarjetas de invitación, felicitaciones, tarjetas de presentación Virtuales con mensajes multitudinaria en Realidad Aumentada",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "expresarte4D.app",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "expresarte4D.app",
+  "start_url": "/",
+  "theme_color": "#000000",
+  "id": "expresarte4D.app",
+  "icons": [
+    {
+      "src": "https://i.imgur.com/Vum5DDn.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://i.imgur.com/VXkPibn.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://i.imgur.com/QoYGXuP.jpeg",
+      "sizes": "640x480",
+      "type": "image/jpeg"
+    }
+  ]
+}
